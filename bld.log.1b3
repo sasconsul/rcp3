@@ -1,0 +1,1132 @@
+Driver Loaded.
+Got Connection.
+
+
+Page
+18:29:09.369 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+Fetching http://tangoandmore.org...
+18:29:10.029 [main] INFO  PageWordCount - count: Fetching http://tangoandmore.org...
+18:29:12.199 [main] INFO  PageWordCount - count: === raw counts ===
+18:29:12.201 [main] INFO  PageWordCount - count: [been=Word{id=null, word='been', count='1', pageId='null'}, projects=Word{id=null, word='projects', count='1', pageId='null'}, numerous=Word{id=null, word='numerous', count='1', pageId='null'}, latina=Word{id=null, word='latina', count='1', pageId='null'}, del=Word{id=null, word='del', count='4', pageId='null'}, eventos=Word{id=null, word='eventos', count='2', pageId='null'}, your=Word{id=null, word='your', count='5', pageId='null'}, offer=Word{id=null, word='offer', count='1', pageId='null'}, luz=Word{id=null, word='luz', count='2', pageId='null'}, music=Word{id=null, word='music', count='4', pageId='null'}, ganado=Word{id=null, word='ganado', count='2', pageId='null'}, bay=Word{id=null, word='bay', count='1', pageId='null'}, televisi=Word{id=null, word='televisi', count='1', pageId='null'}, you=Word{id=null, word='you', count='7', pageId='null'}, tangoearth=Word{id=null, word='tangoearth', count='2', pageId='null'}, energy=Word{id=null, word='energy', count='1', pageId='null'}, happen=Word{id=null, word='happen', count='1', pageId='null'}, festival=Word{id=null, word='festival', count='8', pageId='null'}, adem=Word{id=null, word='adem', count='1', pageId='null'}, despu=Word{id=null, word='despu', count='2', pageId='null'}, al=Word{id=null, word='al', count='1', pageId='null'}, community=Word{id=null, word='community', count='1', pageId='null'}, an=Word{id=null, word='an', count='4', pageId='null'}, warren=Word{id=null, word='warren', count='1', pageId='null'}, estos=Word{id=null, word='estos', count='1', pageId='null'}, cultural=Word{id=null, word='cultural', count='4', pageId='null'}, conozcan=Word{id=null, word='conozcan', count='1', pageId='null'}, ar=Word{id=null, word='ar', count='1', pageId='null'}, as=Word{id=null, word='as', count='8', pageId='null'}, at=Word{id=null, word='at', count='11', pageId='null'}, autora=Word{id=null, word='autora', count='1', pageId='null'}, 5=Word{id=null, word='5', count='1', pageId='null'}, espect=Word{id=null, word='espect', count='1', pageId='null'}, culos=Word{id=null, word='culos', count='1', pageId='null'}, deals=Word{id=null, word='deals', count='1', pageId='null'}, domain=Word{id=null, word='domain', count='1', pageId='null'}, folk=Word{id=null, word='folk', count='1', pageId='null'}, guest=Word{id=null, word='guest', count='2', pageId='null'}, much=Word{id=null, word='much', count='2', pageId='null'}, role=Word{id=null, word='role', count='1', pageId='null'}, be=Word{id=null, word='be', count='2', pageId='null'}, dedicada=Word{id=null, word='dedicada', count='1', pageId='null'}, hosting=Word{id=null, word='hosting', count='1', pageId='null'}, campeonato=Word{id=null, word='campeonato', count='1', pageId='null'}, civic=Word{id=null, word='civic', count='1', pageId='null'}, zapateo=Word{id=null, word='zapateo', count='1', pageId='null'}, by=Word{id=null, word='by', count='4', pageId='null'}, after=Word{id=null, word='after', count='1', pageId='null'}, foot=Word{id=null, word='foot', count='2', pageId='null'}, muchas=Word{id=null, word='muchas', count='1', pageId='null'}, a=Word{id=null, word='a', count='18', pageId='null'}, ser=Word{id=null, word='ser', count='1', pageId='null'}, website=Word{id=null, word='website', count='1', pageId='null'}, committee=Word{id=null, word='committee', count='1', pageId='null'}, d=Word{id=null, word='d', count='1', pageId='null'}, learn=Word{id=null, word='learn', count='4', pageId='null'}, founded=Word{id=null, word='founded', count='4', pageId='null'}, union=Word{id=null, word='union', count='1', pageId='null'}, right=Word{id=null, word='right', count='1', pageId='null'}, mounted=Word{id=null, word='mounted', count='1', pageId='null'}, m=Word{id=null, word='m', count='2', pageId='null'}, n=Word{id=null, word='n', count='8', pageId='null'}, the=Word{id=null, word='the', count='24', pageId='null'}, pioneros=Word{id=null, word='pioneros', count='1', pageId='null'}, battle=Word{id=null, word='battle', count='1', pageId='null'}, s=Word{id=null, word='s', count='18', pageId='null'}, ella=Word{id=null, word='ella', count='6', pageId='null'}, establecieron=Word{id=null, word='establecieron', count='1', pageId='null'}, meet=Word{id=null, word='meet', count='1', pageId='null'}, stage=Word{id=null, word='stage', count='3', pageId='null'}, partner=Word{id=null, word='partner', count='1', pageId='null'}, t=Word{id=null, word='t', count='1', pageId='null'}, series=Word{id=null, word='series', count='3', pageId='null'}, y=Word{id=null, word='y', count='19', pageId='null'}, da=Word{id=null, word='da', count='1', pageId='null'}, siendo=Word{id=null, word='siendo', count='1', pageId='null'}, did=Word{id=null, word='did', count='1', pageId='null'}, dc=Word{id=null, word='dc', count='2', pageId='null'}, de=Word{id=null, word='de', count='35', pageId='null'}, putting=Word{id=null, word='putting', count='1', pageId='null'}, dancers=Word{id=null, word='dancers', count='1', pageId='null'}, moved=Word{id=null, word='moved', count='1', pageId='null'}, exitosa=Word{id=null, word='exitosa', count='1', pageId='null'}, language=Word{id=null, word='language', count='2', pageId='null'}, do=Word{id=null, word='do', count='1', pageId='null'}, good=Word{id=null, word='good', count='1', pageId='null'}, directorales=Word{id=null, word='directorales', count='1', pageId='null'}, detailsjoin=Word{id=null, word='detailsjoin', count='1', pageId='null'}, generosity=Word{id=null, word='generosity', count='1', pageId='null'}, primeros=Word{id=null, word='primeros', count='1', pageId='null'}, ense=Word{id=null, word='ense', count='2', pageId='null'}, post=Word{id=null, word='post', count='1', pageId='null'}, vive=Word{id=null, word='vive', count='1', pageId='null'}, nuestra=Word{id=null, word='nuestra', count='1', pageId='null'}, repeating=Word{id=null, word='repeating', count='1', pageId='null'}, contact=Word{id=null, word='contact', count='1', pageId='null'}, helped=Word{id=null, word='helped', count='1', pageId='null'}, trendsetters=Word{id=null, word='trendsetters', count='1', pageId='null'}, info=Word{id=null, word='info', count='1', pageId='null'}, area=Word{id=null, word='area', count='3', pageId='null'}, which=Word{id=null, word='which', count='1', pageId='null'}, dedicated=Word{id=null, word='dedicated', count='1', pageId='null'}, making=Word{id=null, word='making', count='1', pageId='null'}, angeles=Word{id=null, word='angeles', count='2', pageId='null'}, educational=Word{id=null, word='educational', count='1', pageId='null'}, el=Word{id=null, word='el', count='13', pageId='null'}, premios=Word{id=null, word='premios', count='1', pageId='null'}, en=Word{id=null, word='en', count='29', pageId='null'}, researching=Word{id=null, word='researching', count='1', pageId='null'}, es=Word{id=null, word='es', count='2', pageId='null'}, granting=Word{id=null, word='granting', count='1', pageId='null'}, pareja=Word{id=null, word='pareja', count='3', pageId='null'}, festivales=Word{id=null, word='festivales', count='1', pageId='null'}, she=Word{id=null, word='she', count='8', pageId='null'}, sobre=Word{id=null, word='sobre', count='1', pageId='null'}, month=Word{id=null, word='month', count='1', pageId='null'}, nacionales=Word{id=null, word='nacionales', count='1', pageId='null'}, washington=Word{id=null, word='washington', count='4', pageId='null'}, isadora=Word{id=null, word='isadora', count='1', pageId='null'}, private=Word{id=null, word='private', count='1', pageId='null'}, united=Word{id=null, word='united', count='1', pageId='null'}, concursos=Word{id=null, word='concursos', count='1', pageId='null'}, tangoandmore=Word{id=null, word='tangoandmore', count='1', pageId='null'}, for=Word{id=null, word='for', count='9', pageId='null'}, asociaci=Word{id=null, word='asociaci', count='1', pageId='null'}, 2011=Word{id=null, word='2011', count='2', pageId='null'}, esfuerzas=Word{id=null, word='esfuerzas', count='1', pageId='null'}, states=Word{id=null, word='states', count='1', pageId='null'}, santa=Word{id=null, word='santa', count='2', pageId='null'}, miss=Word{id=null, word='miss', count='1', pageId='null'}, programmingoffer=Word{id=null, word='programmingoffer', count='1', pageId='null'}, 2008=Word{id=null, word='2008', count='3', pageId='null'}, estableci=Word{id=null, word='estableci', count='1', pageId='null'}, danzas=Word{id=null, word='danzas', count='1', pageId='null'}, company=Word{id=null, word='company', count='3', pageId='null'}, ciudades=Word{id=null, word='ciudades', count='1', pageId='null'}, over=Word{id=null, word='over', count='1', pageId='null'}, spanish=Word{id=null, word='spanish', count='4', pageId='null'}, clara=Word{id=null, word='clara', count='2', pageId='null'}, 6500=Word{id=null, word='6500', count='1', pageId='null'}, una=Word{id=null, word='una', count='1', pageId='null'}, grand=Word{id=null, word='grand', count='4', pageId='null'}, ndolas=Word{id=null, word='ndolas', count='2', pageId='null'}, special=Word{id=null, word='special', count='1', pageId='null'}, with=Word{id=null, word='with', count='4', pageId='null'}, 2016=Word{id=null, word='2016', count='2', pageId='null'}, directora=Word{id=null, word='directora', count='1', pageId='null'}, 2014=Word{id=null, word='2014', count='2', pageId='null'}, well=Word{id=null, word='well', count='1', pageId='null'}, ha=Word{id=null, word='ha', count='5', pageId='null'}, decades=Word{id=null, word='decades', count='1', pageId='null'}, cancer=Word{id=null, word='cancer', count='1', pageId='null'}, sica=Word{id=null, word='sica', count='1', pageId='null'}, big=Word{id=null, word='big', count='1', pageId='null'}, montada=Word{id=null, word='montada', count='1', pageId='null'}, fundar=Word{id=null, word='fundar', count='1', pageId='null'}, channel=Word{id=null, word='channel', count='1', pageId='null'}, american=Word{id=null, word='american', count='1', pageId='null'}, cerca=Word{id=null, word='cerca', count='1', pageId='null'}, mediod=Word{id=null, word='mediod', count='1', pageId='null'}, years=Word{id=null, word='years', count='2', pageId='null'}, america=Word{id=null, word='america', count='3', pageId='null'}, 510=Word{id=null, word='510', count='1', pageId='null'}, argentinos=Word{id=null, word='argentinos', count='2', pageId='null'}, latin=Word{id=null, word='latin', count='3', pageId='null'}, judge=Word{id=null, word='judge', count='1', pageId='null'}, join=Word{id=null, word='join', count='1', pageId='null'}, concurso=Word{id=null, word='concurso', count='1', pageId='null'}, if=Word{id=null, word='if', count='1', pageId='null'}, in=Word{id=null, word='in', count='26', pageId='null'}, director=Word{id=null, word='director', count='1', pageId='null'}, foundations=Word{id=null, word='foundations', count='1', pageId='null'}, is=Word{id=null, word='is', count='4', pageId='null'}, culturales=Word{id=null, word='culturales', count='2', pageId='null'}, it=Word{id=null, word='it', count='3', pageId='null'}, carnaval=Word{id=null, word='carnaval', count='1', pageId='null'}, bringing=Word{id=null, word='bringing', count='1', pageId='null'}, even=Word{id=null, word='even', count='1', pageId='null'}, served=Word{id=null, word='served', count='1', pageId='null'}, presenting=Word{id=null, word='presenting', count='3', pageId='null'}, women=Word{id=null, word='women', count='1', pageId='null'}, don=Word{id=null, word='don', count='1', pageId='null'}, against=Word{id=null, word='against', count='1', pageId='null'}, dos=Word{id=null, word='dos', count='1', pageId='null'}, montar=Word{id=null, word='montar', count='1', pageId='null'}, world=Word{id=null, word='world', count='1', pageId='null'}, known=Word{id=null, word='known', count='1', pageId='null'}, sido=Word{id=null, word='sido', count='1', pageId='null'}, member=Word{id=null, word='member', count='1', pageId='null'}, have=Word{id=null, word='have', count='2', pageId='null'}, share=Word{id=null, word='share', count='1', pageId='null'}, mas=Word{id=null, word='mas', count='1', pageId='null'}, ngeles=Word{id=null, word='ngeles', count='1', pageId='null'}, competed=Word{id=null, word='competed', count='1', pageId='null'}, television=Word{id=null, word='television', count='1', pageId='null'}, missed=Word{id=null, word='missed', count='1', pageId='null'}, competitions=Word{id=null, word='competitions', count='1', pageId='null'}, opportunities=Word{id=null, word='opportunities', count='1', pageId='null'}, off=Word{id=null, word='off', count='1', pageId='null'}, gigi=Word{id=null, word='gigi', count='6', pageId='null'}, la=Word{id=null, word='la', count='15', pageId='null'}, corporate=Word{id=null, word='corporate', count='1', pageId='null'}, instruction=Word{id=null, word='instruction', count='1', pageId='null'}, curated=Word{id=null, word='curated', count='1', pageId='null'}, fue=Word{id=null, word='fue', count='2', pageId='null'}, 6415=Word{id=null, word='6415', count='1', pageId='null'}, francisco=Word{id=null, word='francisco', count='12', pageId='null'}, finales=Word{id=null, word='finales', count='1', pageId='null'}, com=Word{id=null, word='com', count='1', pageId='null'}, ll=Word{id=null, word='ll', count='1', pageId='null'}, usa=Word{id=null, word='usa', count='2', pageId='null'}, con=Word{id=null, word='con', count='4', pageId='null'}, detailsdancer=Word{id=null, word='detailsdancer', count='1', pageId='null'}, choreographer=Word{id=null, word='choreographer', count='1', pageId='null'}, several=Word{id=null, word='several', count='5', pageId='null'}, grupo=Word{id=null, word='grupo', count='1', pageId='null'}, radio=Word{id=null, word='radio', count='2', pageId='null'}, bailar=Word{id=null, word='bailar', count='1', pageId='null'}, plaza=Word{id=null, word='plaza', count='1', pageId='null'}, son=Word{id=null, word='son', count='1', pageId='null'}, detailsargentine=Word{id=null, word='detailsargentine', count='1', pageId='null'}, optimize=Word{id=null, word='optimize', count='1', pageId='null'}, academia=Word{id=null, word='academia', count='1', pageId='null'}, find=Word{id=null, word='find', count='2', pageId='null'}, than=Word{id=null, word='than', count='2', pageId='null'}, raise=Word{id=null, word='raise', count='1', pageId='null'}, anual=Word{id=null, word='anual', count='1', pageId='null'}, seattle=Word{id=null, word='seattle', count='2', pageId='null'}, radic=Word{id=null, word='radic', count='1', pageId='null'}, international=Word{id=null, word='international', count='2', pageId='null'}, las=Word{id=null, word='las', count='3', pageId='null'}, all=Word{id=null, word='all', count='3', pageId='null'}, always=Word{id=null, word='always', count='2', pageId='null'}, new=Word{id=null, word='new', count='2', pageId='null'}, calfornia=Word{id=null, word='calfornia', count='1', pageId='null'}, including=Word{id=null, word='including', count='1', pageId='null'}, cities=Word{id=null, word='cities', count='1', pageId='null'}, author=Word{id=null, word='author', count='1', pageId='null'}, ms=Word{id=null, word='ms', count='1', pageId='null'}, yelp=Word{id=null, word='yelp', count='1', pageId='null'}, kdtv=Word{id=null, word='kdtv', count='2', pageId='null'}, moda=Word{id=null, word='moda', count='1', pageId='null'}, 200=Word{id=null, word='200', count='2', pageId='null'}, finals=Word{id=null, word='finals', count='1', pageId='null'}, troupe=Word{id=null, word='troupe', count='1', pageId='null'}, curaba=Word{id=null, word='curaba', count='1', pageId='null'}, 326=Word{id=null, word='326', count='1', pageId='null'}, mudial=Word{id=null, word='mudial', count='1', pageId='null'}, present=Word{id=null, word='present', count='2', pageId='null'}, investigar=Word{id=null, word='investigar', count='1', pageId='null'}, since=Word{id=null, word='since', count='1', pageId='null'}, university=Word{id=null, word='university', count='2', pageId='null'}, media=Word{id=null, word='media', count='2', pageId='null'}, ball=Word{id=null, word='ball', count='2', pageId='null'}, times=Word{id=null, word='times', count='2', pageId='null'}, teaches=Word{id=null, word='teaches', count='1', pageId='null'}, pampa=Word{id=null, word='pampa', count='8', pageId='null'}, credits=Word{id=null, word='credits', count='1', pageId='null'}, and=Word{id=null, word='and', count='23', pageId='null'}, of=Word{id=null, word='of', count='9', pageId='null'}, workshops=Word{id=null, word='workshops', count='1', pageId='null'}, ol=Word{id=null, word='ol', count='1', pageId='null'}, make=Word{id=null, word='make', count='1', pageId='null'}, on=Word{id=null, word='on', count='10', pageId='null'}, or=Word{id=null, word='or', count='4', pageId='null'}, os=Word{id=null, word='os', count='2', pageId='null'}, performing=Word{id=null, word='performing', count='1', pageId='null'}, veces=Word{id=null, word='veces', count='3', pageId='null'}, followed=Word{id=null, word='followed', count='1', pageId='null'}, internacional=Word{id=null, word='internacional', count='1', pageId='null'}, awards=Word{id=null, word='awards', count='3', pageId='null'}, conocida=Word{id=null, word='conocida', count='1', pageId='null'}, directing=Word{id=null, word='directing', count='1', pageId='null'}, productions=Word{id=null, word='productions', count='1', pageId='null'}, duncan=Word{id=null, word='duncan', count='1', pageId='null'}, interested=Word{id=null, word='interested', count='1', pageId='null'}, grafo=Word{id=null, word='grafo', count='1', pageId='null'}, hermosas=Word{id=null, word='hermosas', count='1', pageId='null'}, integrante=Word{id=null, word='integrante', count='1', pageId='null'}, about=Word{id=null, word='about', count='2', pageId='null'}, xitos=Word{id=null, word='xitos', count='1', pageId='null'}, beautiful=Word{id=null, word='beautiful', count='2', pageId='null'}, worked=Word{id=null, word='worked', count='1', pageId='null'}, championship=Word{id=null, word='championship', count='2', pageId='null'}, annual=Word{id=null, word='annual', count='2', pageId='null'}, state=Word{id=null, word='state', count='1', pageId='null'}, dedicando=Word{id=null, word='dedicando', count='1', pageId='null'}, welcome=Word{id=null, word='welcome', count='1', pageId='null'}, dance=Word{id=null, word='dance', count='15', pageId='null'}, tales=Word{id=null, word='tales', count='1', pageId='null'}, they=Word{id=null, word='they', count='3', pageId='null'}, events=Word{id=null, word='events', count='3', pageId='null'}, 14=Word{id=null, word='14', count='2', pageId='null'}, qu=Word{id=null, word='qu', count='1', pageId='null'}, immersion=Word{id=null, word='immersion', count='2', pageId='null'}, 17=Word{id=null, word='17', count='2', pageId='null'}, want=Word{id=null, word='want', count='2', pageId='null'}, received=Word{id=null, word='received', count='2', pageId='null'}, ballet=Word{id=null, word='ballet', count='2', pageId='null'}, wonderful=Word{id=null, word='wonderful', count='1', pageId='null'}, something=Word{id=null, word='something', count='1', pageId='null'}, escenario=Word{id=null, word='escenario', count='1', pageId='null'}, mission=Word{id=null, word='mission', count='1', pageId='null'}, re=Word{id=null, word='re', count='1', pageId='null'}, appreciated=Word{id=null, word='appreciated', count='1', pageId='null'}, programs=Word{id=null, word='programs', count='1', pageId='null'}, ciencias=Word{id=null, word='ciencias', count='1', pageId='null'}, lessons=Word{id=null, word='lessons', count='1', pageId='null'}, 25=Word{id=null, word='25', count='1', pageId='null'}, panels=Word{id=null, word='panels', count='1', pageId='null'}, patricia=Word{id=null, word='patricia', count='11', pageId='null'}, prionera=Word{id=null, word='prionera', count='1', pageId='null'}, association=Word{id=null, word='association', count='2', pageId='null'}, jensen=Word{id=null, word='jensen', count='5', pageId='null'}, two=Word{id=null, word='two', count='1', pageId='null'}, arte=Word{id=null, word='arte', count='1', pageId='null'}, sus=Word{id=null, word='sus', count='1', pageId='null'}, into=Word{id=null, word='into', count='1', pageId='null'}, se=Word{id=null, word='se', count='5', pageId='null'}, estrellitas=Word{id=null, word='estrellitas', count='2', pageId='null'}, por=Word{id=null, word='por', count='5', pageId='null'}, diversity=Word{id=null, word='diversity', count='2', pageId='null'}, trendsetter=Word{id=null, word='trendsetter', count='1', pageId='null'}, are=Word{id=null, word='are', count='1', pageId='null'}, artists=Word{id=null, word='artists', count='1', pageId='null'}, fundado=Word{id=null, word='fundado', count='1', pageId='null'}, sincronizado=Word{id=null, word='sincronizado', count='1', pageId='null'}, incluyendo=Word{id=null, word='incluyendo', count='1', pageId='null'}, canal=Word{id=null, word='canal', count='1', pageId='null'}, so=Word{id=null, word='so', count='2', pageId='null'}, popular=Word{id=null, word='popular', count='3', pageId='null'}, colombia=Word{id=null, word='colombia', count='1', pageId='null'}, email=Word{id=null, word='email', count='1', pageId='null'}, think=Word{id=null, word='think', count='1', pageId='null'}, art=Word{id=null, word='art', count='1', pageId='null'}, su=Word{id=null, word='su', count='2', pageId='null'}, folkloric=Word{id=null, word='folkloric', count='2', pageId='null'}, numerosas=Word{id=null, word='numerosas', count='1', pageId='null'}, gran=Word{id=null, word='gran', count='2', pageId='null'}, encuentra=Word{id=null, word='encuentra', count='1', pageId='null'}, many=Word{id=null, word='many', count='1', pageId='null'}, tour=Word{id=null, word='tour', count='1', pageId='null'}, estados=Word{id=null, word='estados', count='2', pageId='null'}, such=Word{id=null, word='such', count='1', pageId='null'}, extensive=Word{id=null, word='extensive', count='1', pageId='null'}, asi=Word{id=null, word='asi', count='1', pageId='null'}, to=Word{id=null, word='to', count='16', pageId='null'}, open=Word{id=null, word='open', count='1', pageId='null'}, through=Word{id=null, word='through', count='1', pageId='null'}, prix=Word{id=null, word='prix', count='3', pageId='null'}, competiciones=Word{id=null, word='competiciones', count='1', pageId='null'}, invitados=Word{id=null, word='invitados', count='1', pageId='null'}, guatemala=Word{id=null, word='guatemala', count='2', pageId='null'}, eliminatorios=Word{id=null, word='eliminatorios', count='1', pageId='null'}, sciences=Word{id=null, word='sciences', count='2', pageId='null'}, baile=Word{id=null, word='baile', count='6', pageId='null'}, estadounidenses=Word{id=null, word='estadounidenses', count='1', pageId='null'}, view=Word{id=null, word='view', count='1', pageId='null'}, har=Word{id=null, word='har', count='1', pageId='null'}, un=Word{id=null, word='un', count='2', pageId='null'}, california=Word{id=null, word='california', count='9', pageId='null'}, details=Word{id=null, word='details', count='2', pageId='null'}, has=Word{id=null, word='has', count='3', pageId='null'}, donate=Word{id=null, word='donate', count='1', pageId='null'}, dust=Word{id=null, word='dust', count='1', pageId='null'}, us=Word{id=null, word='us', count='5', pageId='null'}, lessonswant=Word{id=null, word='lessonswant', count='1', pageId='null'}, verio=Word{id=null, word='verio', count='1', pageId='null'}, this=Word{id=null, word='this', count='3', pageId='null'}, nacida=Word{id=null, word='nacida', count='1', pageId='null'}, facebookjoin=Word{id=null, word='facebookjoin', count='1', pageId='null'}, giro=Word{id=null, word='giro', count='1', pageId='null'}, ve=Word{id=null, word='ve', count='2', pageId='null'}, announced=Word{id=null, word='announced', count='1', pageId='null'}, restrepo=Word{id=null, word='restrepo', count='4', pageId='null'}, ballroom=Word{id=null, word='ballroom', count='1', pageId='null'}, name=Word{id=null, word='name', count='1', pageId='null'}, know=Word{id=null, word='know', count='1', pageId='null'}, page=Word{id=null, word='page', count='1', pageId='null'}, que=Word{id=null, word='que', count='2', pageId='null'}, classes=Word{id=null, word='classes', count='1', pageId='null'}, show=Word{id=null, word='show', count='3', pageId='null'}, amateur=Word{id=null, word='amateur', count='2', pageId='null'}, we=Word{id=null, word='we', count='5', pageId='null'}, life=Word{id=null, word='life', count='1', pageId='null'}, mplias=Word{id=null, word='mplias', count='1', pageId='null'}, alcanzando=Word{id=null, word='alcanzando', count='1', pageId='null'}, abajocolombian=Word{id=null, word='abajocolombian', count='1', pageId='null'}, now=Word{id=null, word='now', count='2', pageId='null'}, tango=Word{id=null, word='tango', count='18', pageId='null'}, successful=Word{id=null, word='successful', count='1', pageId='null'}, reconocida=Word{id=null, word='reconocida', count='1', pageId='null'}, ora=Word{id=null, word='ora', count='1', pageId='null'}, prestigious=Word{id=null, word='prestigious', count='1', pageId='null'}, was=Word{id=null, word='was', count='1', pageId='null'}, what=Word{id=null, word='what', count='2', pageId='null'}, segu=Word{id=null, word='segu', count='1', pageId='null'}, locutora=Word{id=null, word='locutora', count='1', pageId='null'}, competition=Word{id=null, word='competition', count='2', pageId='null'}, dances=Word{id=null, word='dances', count='6', pageId='null'}, multi=Word{id=null, word='multi', count='2', pageId='null'}, folklore=Word{id=null, word='folklore', count='1', pageId='null'}, her=Word{id=null, word='her', count='5', pageId='null'}, univision=Word{id=null, word='univision', count='1', pageId='null'}, clinicwe=Word{id=null, word='clinicwe', count='1', pageId='null'}, entrevisada=Word{id=null, word='entrevisada', count='1', pageId='null'}, exposici=Word{id=null, word='exposici', count='1', pageId='null'}, como=Word{id=null, word='como', count='4', pageId='null'}, presentar=Word{id=null, word='presentar', count='2', pageId='null'}, ethnic=Word{id=null, word='ethnic', count='2', pageId='null'}, lives=Word{id=null, word='lives', count='1', pageId='null'}, come=Word{id=null, word='come', count='1', pageId='null'}, benefiting=Word{id=null, word='benefiting', count='1', pageId='null'}, espa=Word{id=null, word='espa', count='1', pageId='null'}, dancer=Word{id=null, word='dancer', count='2', pageId='null'}, septiembre=Word{id=null, word='septiembre', count='1', pageId='null'}, registration=Word{id=null, word='registration', count='1', pageId='null'}, varias=Word{id=null, word='varias', count='3', pageId='null'}, care=Word{id=null, word='care', count='2', pageId='null'}, broadcast=Word{id=null, word='broadcast', count='1', pageId='null'}, teaching=Word{id=null, word='teaching', count='2', pageId='null'}, our=Word{id=null, word='our', count='7', pageId='null'}, tnico=Word{id=null, word='tnico', count='1', pageId='null'}, out=Word{id=null, word='out', count='1', pageId='null'}, 1998=Word{id=null, word='1998', count='4', pageId='null'}, los=Word{id=null, word='los', count='9', pageId='null'}, noon=Word{id=null, word='noon', count='2', pageId='null'}, batango=Word{id=null, word='batango', count='1', pageId='null'}, continues=Word{id=null, word='continues', count='1', pageId='null'}, emcee=Word{id=null, word='emcee', count='1', pageId='null'}, competieron=Word{id=null, word='competieron', count='1', pageId='null'}, semi=Word{id=null, word='semi', count='2', pageId='null'}, place=Word{id=null, word='place', count='2', pageId='null'}, europe=Word{id=null, word='europe', count='1', pageId='null'}, academy=Word{id=null, word='academy', count='2', pageId='null'}, feminino=Word{id=null, word='feminino', count='1', pageId='null'}, hasta=Word{id=null, word='hasta', count='1', pageId='null'}, europa=Word{id=null, word='europa', count='1', pageId='null'}, more=Word{id=null, word='more', count='8', pageId='null'}, born=Word{id=null, word='born', count='1', pageId='null'}, facebook=Word{id=null, word='facebook', count='1', pageId='null'}, great=Word{id=null, word='great', count='2', pageId='null'}, baila=Word{id=null, word='baila', count='3', pageId='null'}, performed=Word{id=null, word='performed', count='1', pageId='null'}, eeuu=Word{id=null, word='eeuu', count='1', pageId='null'}, help=Word{id=null, word='help', count='3', pageId='null'}, artistas=Word{id=null, word='artistas', count='2', pageId='null'}, january=Word{id=null, word='january', count='2', pageId='null'}, organization=Word{id=null, word='organization', count='1', pageId='null'}, ages=Word{id=null, word='ages', count='1', pageId='null'}, first=Word{id=null, word='first', count='2', pageId='null'}, stuff=Word{id=null, word='stuff', count='2', pageId='null'}, cort=Word{id=null, word='cort', count='8', pageId='null'}, date=Word{id=null, word='date', count='1', pageId='null'}, estado=Word{id=null, word='estado', count='1', pageId='null'}, otros=Word{id=null, word='otros', count='2', pageId='null'}, argentino=Word{id=null, word='argentino', count='3', pageId='null'}, presentados=Word{id=null, word='presentados', count='1', pageId='null'}, icim=Word{id=null, word='icim', count='1', pageId='null'}, shows=Word{id=null, word='shows', count='1', pageId='null'}, his=Word{id=null, word='his', count='1', pageId='null'}, argentina=Word{id=null, word='argentina', count='10', pageId='null'}, presented=Word{id=null, word='presented', count='1', pageId='null'}, versi=Word{id=null, word='versi', count='1', pageId='null'}, argentine=Word{id=null, word='argentine', count='16', pageId='null'}, from=Word{id=null, word='from', count='1', pageId='null'}, canta=Word{id=null, word='canta', count='1', pageId='null'}, partnered=Word{id=null, word='partnered', count='1', pageId='null'}, group=Word{id=null, word='group', count='1', pageId='null'}, tap=Word{id=null, word='tap', count='1', pageId='null'}, repeatedly=Word{id=null, word='repeatedly', count='1', pageId='null'}, like=Word{id=null, word='like', count='1', pageId='null'}, bottom=Word{id=null, word='bottom', count='1', pageId='null'}, published=Word{id=null, word='published', count='1', pageId='null'}, publicada=Word{id=null, word='publicada', count='1', pageId='null'}, towards=Word{id=null, word='towards', count='1', pageId='null'}, produced=Word{id=null, word='produced', count='1', pageId='null'}, both=Word{id=null, word='both', count='1', pageId='null'}, square=Word{id=null, word='square', count='3', pageId='null'}, core=Word{id=null, word='core', count='1', pageId='null'}, presentando=Word{id=null, word='presentando', count='1', pageId='null'}, unidos=Word{id=null, word='unidos', count='2', pageId='null'}, musicians=Word{id=null, word='musicians', count='1', pageId='null'}, frequent=Word{id=null, word='frequent', count='1', pageId='null'}, why=Word{id=null, word='why', count='1', pageId='null'}, can=Word{id=null, word='can', count='1', pageId='null'}, september=Word{id=null, word='september', count='1', pageId='null'}, univisi=Word{id=null, word='univisi', count='1', pageId='null'}, para=Word{id=null, word='para', count='1', pageId='null'}, public=Word{id=null, word='public', count='1', pageId='null'}, danza=Word{id=null, word='danza', count='2', pageId='null'}, station=Word{id=null, word='station', count='1', pageId='null'}, cadas=Word{id=null, word='cadas', count='1', pageId='null'}, temas=Word{id=null, word='temas', count='1', pageId='null'}, mundial=Word{id=null, word='mundial', count='1', pageId='null'}, sal=Word{id=null, word='sal', count='1', pageId='null'}, inc=Word{id=null, word='inc', count='1', pageId='null'}, 25th=Word{id=null, word='25th', count='2', pageId='null'}, invitada=Word{id=null, word='invitada', count='1', pageId='null'}, san=Word{id=null, word='san', count='12', pageId='null'}, will=Word{id=null, word='will', count='1', pageId='null'}, also=Word{id=null, word='also', count='2', pageId='null'}, canto=Word{id=null, word='canto', count='1', pageId='null'}, interviewed=Word{id=null, word='interviewed', count='1', pageId='null'}, trabaj=Word{id=null, word='trabaj', count='1', pageId='null'}, funci=Word{id=null, word='funci', count='1', pageId='null'}, performance=Word{id=null, word='performance', count='1', pageId='null'}, tema=Word{id=null, word='tema', count='1', pageId='null'}, bienvenido=Word{id=null, word='bienvenido', count='1', pageId='null'}, listed=Word{id=null, word='listed', count='1', pageId='null'}, various=Word{id=null, word='various', count='1', pageId='null'}, programas=Word{id=null, word='programas', count='1', pageId='null'}, serie=Word{id=null, word='serie', count='1', pageId='null'}, talleres=Word{id=null, word='talleres', count='1', pageId='null'}, categor=Word{id=null, word='categor', count='1', pageId='null'}, clinic=Word{id=null, word='clinic', count='1', pageId='null'}, gala=Word{id=null, word='gala', count='1', pageId='null'}]
+18:29:12.205 [main] INFO  PageWordCount - count: === frequency ===
+18:29:12.205 [main] INFO  PageWordCount - count:  w: |been| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |projects| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |numerous| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |latina| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |offer| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |bay| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |televisi| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |energy| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |happen| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |adem| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |al| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |community| f: 1 
+18:29:12.206 [main] INFO  PageWordCount - count:  w: |warren| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |estos| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |conozcan| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |ar| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |autora| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |5| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |espect| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |culos| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |deals| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |domain| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |folk| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |role| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |dedicada| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |hosting| f: 1 
+18:29:12.207 [main] INFO  PageWordCount - count:  w: |campeonato| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |civic| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |zapateo| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |after| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |muchas| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |ser| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |website| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |committee| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |d| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |union| f: 1 
+18:29:12.208 [main] INFO  PageWordCount - count:  w: |right| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |mounted| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |pioneros| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |battle| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |establecieron| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |meet| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |partner| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |t| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |da| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |siendo| f: 1 
+18:29:12.209 [main] INFO  PageWordCount - count:  w: |did| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |putting| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |dancers| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |moved| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |exitosa| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |do| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |good| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |directorales| f: 1 
+18:29:12.210 [main] INFO  PageWordCount - count:  w: |detailsjoin| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |generosity| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |primeros| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |post| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |vive| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |nuestra| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |repeating| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |contact| f: 1 
+18:29:12.214 [main] INFO  PageWordCount - count:  w: |helped| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |trendsetters| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |info| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |which| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |dedicated| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |making| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |educational| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |premios| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |researching| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |granting| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |festivales| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |sobre| f: 1 
+18:29:12.215 [main] INFO  PageWordCount - count:  w: |month| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |nacionales| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |isadora| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |private| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |united| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |concursos| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |tangoandmore| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |asociaci| f: 1 
+18:29:12.216 [main] INFO  PageWordCount - count:  w: |esfuerzas| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |states| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |miss| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |programmingoffer| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |estableci| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |danzas| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |ciudades| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |over| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |6500| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |una| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |special| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |directora| f: 1 
+18:29:12.217 [main] INFO  PageWordCount - count:  w: |well| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |decades| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |cancer| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |sica| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |big| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |montada| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |fundar| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |channel| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |american| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |cerca| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |mediod| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |510| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |judge| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |join| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |concurso| f: 1 
+18:29:12.218 [main] INFO  PageWordCount - count:  w: |if| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |director| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |foundations| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |carnaval| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |bringing| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |even| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |served| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |women| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |don| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |against| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |dos| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |montar| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |world| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |known| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |sido| f: 1 
+18:29:12.219 [main] INFO  PageWordCount - count:  w: |member| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |share| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |mas| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |ngeles| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |competed| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |television| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |missed| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |competitions| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |opportunities| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |off| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |corporate| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |instruction| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |curated| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |6415| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |finales| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |com| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |ll| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |detailsdancer| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |choreographer| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |grupo| f: 1 
+18:29:12.220 [main] INFO  PageWordCount - count:  w: |bailar| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |plaza| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |son| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |detailsargentine| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |optimize| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |academia| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |raise| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |anual| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |radic| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |calfornia| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |including| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |cities| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |author| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |ms| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |yelp| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |moda| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |finals| f: 1 
+18:29:12.221 [main] INFO  PageWordCount - count:  w: |troupe| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |curaba| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |326| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |mudial| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |investigar| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |since| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |teaches| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |credits| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |workshops| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |ol| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |make| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |performing| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |followed| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |internacional| f: 1 
+18:29:12.222 [main] INFO  PageWordCount - count:  w: |conocida| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |directing| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |productions| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |duncan| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |interested| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |grafo| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |hermosas| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |integrante| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |xitos| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |worked| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |state| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |dedicando| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |welcome| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |tales| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |qu| f: 1 
+18:29:12.223 [main] INFO  PageWordCount - count:  w: |wonderful| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |something| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |escenario| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |mission| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |re| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |appreciated| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |programs| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |ciencias| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |lessons| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |25| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |panels| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |prionera| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |two| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |arte| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |sus| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |into| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |trendsetter| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |are| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |artists| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |fundado| f: 1 
+18:29:12.224 [main] INFO  PageWordCount - count:  w: |sincronizado| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |incluyendo| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |canal| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |colombia| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |email| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |think| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |art| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |numerosas| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |encuentra| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |many| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |tour| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |such| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |extensive| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |asi| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |open| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |through| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |competiciones| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |invitados| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |eliminatorios| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |estadounidenses| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |view| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |har| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |donate| f: 1 
+18:29:12.225 [main] INFO  PageWordCount - count:  w: |dust| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |lessonswant| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |verio| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |nacida| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |facebookjoin| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |giro| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |announced| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |ballroom| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |name| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |know| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |page| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |classes| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |life| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |mplias| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |alcanzando| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |abajocolombian| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |successful| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |reconocida| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |ora| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |prestigious| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |was| f: 1 
+18:29:12.226 [main] INFO  PageWordCount - count:  w: |segu| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |locutora| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |folklore| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |univision| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |clinicwe| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |entrevisada| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |exposici| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |lives| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |come| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |benefiting| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |espa| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |septiembre| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |registration| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |broadcast| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |tnico| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |out| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |batango| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |continues| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |emcee| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |competieron| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |europe| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |feminino| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |hasta| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |europa| f: 1 
+18:29:12.227 [main] INFO  PageWordCount - count:  w: |born| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |facebook| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |performed| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |eeuu| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |organization| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |ages| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |date| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |estado| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |presentados| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |icim| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |shows| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |his| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |presented| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |versi| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |from| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |canta| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |partnered| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |group| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |tap| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |repeatedly| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |like| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |bottom| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |published| f: 1 
+18:29:12.228 [main] INFO  PageWordCount - count:  w: |publicada| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |towards| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |produced| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |both| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |core| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |presentando| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |musicians| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |frequent| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |why| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |can| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |september| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |univisi| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |para| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |public| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |station| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |cadas| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |temas| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |mundial| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |sal| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |inc| f: 1 
+18:29:12.229 [main] INFO  PageWordCount - count:  w: |invitada| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |will| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |canto| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |interviewed| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |trabaj| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |funci| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |performance| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |tema| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |bienvenido| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |listed| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |various| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |programas| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |serie| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |talleres| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |categor| f: 1 
+18:29:12.230 [main] INFO  PageWordCount - count:  w: |clinic| f: 1 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |gala| f: 1 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |eventos| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |luz| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |ganado| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |tangoearth| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |despu| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |guest| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |much| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |be| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |foot| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |m| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |dc| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |language| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |ense| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |angeles| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |es| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |2011| f: 2 
+18:29:12.231 [main] INFO  PageWordCount - count:  w: |santa| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |clara| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |ndolas| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |2016| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |2014| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |years| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |argentinos| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |culturales| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |have| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |fue| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |usa| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |radio| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |find| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |than| f: 2 
+18:29:12.232 [main] INFO  PageWordCount - count:  w: |seattle| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |international| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |always| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |new| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |kdtv| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |200| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |present| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |university| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |media| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |ball| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |times| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |os| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |about| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |beautiful| f: 2 
+18:29:12.233 [main] INFO  PageWordCount - count:  w: |championship| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |annual| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |14| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |immersion| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |17| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |want| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |received| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |ballet| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |association| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |estrellitas| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |diversity| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |so| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |su| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |folkloric| f: 2 
+18:29:12.234 [main] INFO  PageWordCount - count:  w: |gran| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |estados| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |guatemala| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |sciences| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |un| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |details| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |ve| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |que| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |amateur| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |now| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |what| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |competition| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |multi| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |presentar| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |ethnic| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |dancer| f: 2 
+18:29:12.235 [main] INFO  PageWordCount - count:  w: |care| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |teaching| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |noon| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |semi| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |place| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |academy| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |great| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |artistas| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |january| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |first| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |stuff| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |otros| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |unidos| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |danza| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |25th| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |also| f: 2 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |stage| f: 3 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |series| f: 3 
+18:29:12.236 [main] INFO  PageWordCount - count:  w: |area| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |pareja| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |2008| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |company| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |america| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |latin| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |it| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |presenting| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |las| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |all| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |veces| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |awards| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |they| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |events| f: 3 
+18:29:12.237 [main] INFO  PageWordCount - count:  w: |popular| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |prix| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |has| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |this| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |show| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |varias| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |baila| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |help| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |argentino| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |square| f: 3 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |del| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |music| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |an| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |cultural| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |by| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |learn| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |founded| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |washington| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |spanish| f: 4 
+18:29:12.238 [main] INFO  PageWordCount - count:  w: |grand| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |with| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |is| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |con| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |or| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |restrepo| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |como| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |1998| f: 4 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |your| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |ha| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |several| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |jensen| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |se| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |por| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |us| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |we| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |her| f: 5 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |ella| f: 6 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |gigi| f: 6 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |baile| f: 6 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |dances| f: 6 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |you| f: 7 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |our| f: 7 
+18:29:12.239 [main] INFO  PageWordCount - count:  w: |festival| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |as| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |n| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |she| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |pampa| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |more| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |cort| f: 8 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |for| f: 9 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |of| f: 9 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |california| f: 9 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |los| f: 9 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |on| f: 10 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |argentina| f: 10 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |at| f: 11 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |patricia| f: 11 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |francisco| f: 12 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |san| f: 12 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |el| f: 13 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |la| f: 15 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |dance| f: 15 
+18:29:12.240 [main] INFO  PageWordCount - count:  w: |to| f: 16 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |argentine| f: 16 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |a| f: 18 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |s| f: 18 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |tango| f: 18 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |y| f: 19 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |and| f: 23 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |the| f: 24 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |in| f: 26 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |en| f: 29 
+18:29:12.241 [main] INFO  PageWordCount - count:  w: |de| f: 35 
+Persisted Page{id=2, url='http://tangoandmore.org'}
+
+
+Page
+	ID	URL
+----------------------------------
+	1	http://tangomango.org
+	2	http://tangoandmore.org
+
+
+Words
+	ID	PAGE_ID	WORD	WORD_COUNT
+----------------------------------
+	1	1	dancing	1
+	2	1	palm	1
+	3	1	county	1
+	4	1	about	1
+	5	1	above	1
+	6	1	donate	1
+	7	1	events	1
+	8	1	you	1
+	9	1	settings	1
+	10	1	angeles	1
+	11	1	in	1
+	12	1	below	1
+	13	1	centralcalifornia	1
+	14	1	this	1
+	15	1	is	1
+	16	1	click	1
+	17	1	coast	1
+	18	1	ever	1
+	19	1	keep	1
+	20	1	send	1
+	21	1	luis	1
+	22	1	no	1
+	23	1	south	1
+	24	1	city	1
+	25	1	association	1
+	26	1	login	1
+	27	1	santa	1
+	28	1	running	1
+	29	1	los	1
+	30	1	not	1
+	31	1	central	1
+	32	1	load	1
+	33	1	and	1
+	34	1	of	1
+	35	1	diego	1
+	36	1	share	1
+	37	1	barbara	1
+	38	1	so	1
+	39	1	free	1
+	40	1	listing	1
+	41	1	address	1
+	42	1	previous	1
+	43	1	org	1
+	44	1	will	1
+	45	1	jose	1
+	46	1	orange	1
+	47	1	help	1
+	48	1	site	1
+	49	1	berkeley	1
+	50	1	beach	1
+	51	1	obispo	1
+	52	1	spam	1
+	53	1	francisco	2
+	54	1	florida	2
+	55	1	your	2
+	56	1	miami	2
+	57	1	california	2
+	58	1	bay	2
+	59	1	chicago	2
+	60	1	cities	2
+	61	1	southern	2
+	62	1	other	2
+	63	1	email	2
+	64	1	a	2
+	65	1	or	2
+	66	1	to	2
+	67	1	argentine	3
+	68	1	area	3
+	69	1	tangomango	3
+	70	1	tango	3
+	71	1	san	5
+	72	2	been	1
+	73	2	projects	1
+	74	2	numerous	1
+	75	2	latina	1
+	76	2	offer	1
+	77	2	bay	1
+	78	2	televisi	1
+	79	2	energy	1
+	80	2	happen	1
+	81	2	adem	1
+	82	2	al	1
+	83	2	community	1
+	84	2	warren	1
+	85	2	estos	1
+	86	2	conozcan	1
+	87	2	ar	1
+	88	2	autora	1
+	89	2	5	1
+	90	2	espect	1
+	91	2	culos	1
+	92	2	deals	1
+	93	2	domain	1
+	94	2	folk	1
+	95	2	role	1
+	96	2	dedicada	1
+	97	2	hosting	1
+	98	2	campeonato	1
+	99	2	civic	1
+	100	2	zapateo	1
+	101	2	after	1
+	102	2	muchas	1
+	103	2	ser	1
+	104	2	website	1
+	105	2	committee	1
+	106	2	d	1
+	107	2	union	1
+	108	2	right	1
+	109	2	mounted	1
+	110	2	pioneros	1
+	111	2	battle	1
+	112	2	establecieron	1
+	113	2	meet	1
+	114	2	partner	1
+	115	2	t	1
+	116	2	da	1
+	117	2	siendo	1
+	118	2	did	1
+	119	2	putting	1
+	120	2	dancers	1
+	121	2	moved	1
+	122	2	exitosa	1
+	123	2	do	1
+	124	2	good	1
+	125	2	directorales	1
+	126	2	detailsjoin	1
+	127	2	generosity	1
+	128	2	primeros	1
+	129	2	post	1
+	130	2	vive	1
+	131	2	nuestra	1
+	132	2	repeating	1
+	133	2	contact	1
+	134	2	helped	1
+	135	2	trendsetters	1
+	136	2	info	1
+	137	2	which	1
+	138	2	dedicated	1
+	139	2	making	1
+	140	2	educational	1
+	141	2	premios	1
+	142	2	researching	1
+	143	2	granting	1
+	144	2	festivales	1
+	145	2	sobre	1
+	146	2	month	1
+	147	2	nacionales	1
+	148	2	isadora	1
+	149	2	private	1
+	150	2	united	1
+	151	2	concursos	1
+	152	2	tangoandmore	1
+	153	2	asociaci	1
+	154	2	esfuerzas	1
+	155	2	states	1
+	156	2	miss	1
+	157	2	programmingoffer	1
+	158	2	estableci	1
+	159	2	danzas	1
+	160	2	ciudades	1
+	161	2	over	1
+	162	2	6500	1
+	163	2	una	1
+	164	2	special	1
+	165	2	directora	1
+	166	2	well	1
+	167	2	decades	1
+	168	2	cancer	1
+	169	2	sica	1
+	170	2	big	1
+	171	2	montada	1
+	172	2	fundar	1
+	173	2	channel	1
+	174	2	american	1
+	175	2	cerca	1
+	176	2	mediod	1
+	177	2	510	1
+	178	2	judge	1
+	179	2	join	1
+	180	2	concurso	1
+	181	2	if	1
+	182	2	director	1
+	183	2	foundations	1
+	184	2	carnaval	1
+	185	2	bringing	1
+	186	2	even	1
+	187	2	served	1
+	188	2	women	1
+	189	2	don	1
+	190	2	against	1
+	191	2	dos	1
+	192	2	montar	1
+	193	2	world	1
+	194	2	known	1
+	195	2	sido	1
+	196	2	member	1
+	197	2	share	1
+	198	2	mas	1
+	199	2	ngeles	1
+	200	2	competed	1
+	201	2	television	1
+	202	2	missed	1
+	203	2	competitions	1
+	204	2	opportunities	1
+	205	2	off	1
+	206	2	corporate	1
+	207	2	instruction	1
+	208	2	curated	1
+	209	2	6415	1
+	210	2	finales	1
+	211	2	com	1
+	212	2	ll	1
+	213	2	detailsdancer	1
+	214	2	choreographer	1
+	215	2	grupo	1
+	216	2	bailar	1
+	217	2	plaza	1
+	218	2	son	1
+	219	2	detailsargentine	1
+	220	2	optimize	1
+	221	2	academia	1
+	222	2	raise	1
+	223	2	anual	1
+	224	2	radic	1
+	225	2	calfornia	1
+	226	2	including	1
+	227	2	cities	1
+	228	2	author	1
+	229	2	ms	1
+	230	2	yelp	1
+	231	2	moda	1
+	232	2	finals	1
+	233	2	troupe	1
+	234	2	curaba	1
+	235	2	326	1
+	236	2	mudial	1
+	237	2	investigar	1
+	238	2	since	1
+	239	2	teaches	1
+	240	2	credits	1
+	241	2	workshops	1
+	242	2	ol	1
+	243	2	make	1
+	244	2	performing	1
+	245	2	followed	1
+	246	2	internacional	1
+	247	2	conocida	1
+	248	2	directing	1
+	249	2	productions	1
+	250	2	duncan	1
+	251	2	interested	1
+	252	2	grafo	1
+	253	2	hermosas	1
+	254	2	integrante	1
+	255	2	xitos	1
+	256	2	worked	1
+	257	2	state	1
+	258	2	dedicando	1
+	259	2	welcome	1
+	260	2	tales	1
+	261	2	qu	1
+	262	2	wonderful	1
+	263	2	something	1
+	264	2	escenario	1
+	265	2	mission	1
+	266	2	re	1
+	267	2	appreciated	1
+	268	2	programs	1
+	269	2	ciencias	1
+	270	2	lessons	1
+	271	2	25	1
+	272	2	panels	1
+	273	2	prionera	1
+	274	2	two	1
+	275	2	arte	1
+	276	2	sus	1
+	277	2	into	1
+	278	2	trendsetter	1
+	279	2	are	1
+	280	2	artists	1
+	281	2	fundado	1
+	282	2	sincronizado	1
+	283	2	incluyendo	1
+	284	2	canal	1
+	285	2	colombia	1
+	286	2	email	1
+	287	2	think	1
+	288	2	art	1
+	289	2	numerosas	1
+	290	2	encuentra	1
+	291	2	many	1
+	292	2	tour	1
+	293	2	such	1
+	294	2	extensive	1
+	295	2	asi	1
+	296	2	open	1
+	297	2	through	1
+	298	2	competiciones	1
+	299	2	invitados	1
+	300	2	eliminatorios	1
+	301	2	estadounidenses	1
+	302	2	view	1
+	303	2	har	1
+	304	2	donate	1
+	305	2	dust	1
+	306	2	lessonswant	1
+	307	2	verio	1
+	308	2	nacida	1
+	309	2	facebookjoin	1
+	310	2	giro	1
+	311	2	announced	1
+	312	2	ballroom	1
+	313	2	name	1
+	314	2	know	1
+	315	2	page	1
+	316	2	classes	1
+	317	2	life	1
+	318	2	mplias	1
+	319	2	alcanzando	1
+	320	2	abajocolombian	1
+	321	2	successful	1
+	322	2	reconocida	1
+	323	2	ora	1
+	324	2	prestigious	1
+	325	2	was	1
+	326	2	segu	1
+	327	2	locutora	1
+	328	2	folklore	1
+	329	2	univision	1
+	330	2	clinicwe	1
+	331	2	entrevisada	1
+	332	2	exposici	1
+	333	2	lives	1
+	334	2	come	1
+	335	2	benefiting	1
+	336	2	espa	1
+	337	2	septiembre	1
+	338	2	registration	1
+	339	2	broadcast	1
+	340	2	tnico	1
+	341	2	out	1
+	342	2	batango	1
+	343	2	continues	1
+	344	2	emcee	1
+	345	2	competieron	1
+	346	2	europe	1
+	347	2	feminino	1
+	348	2	hasta	1
+	349	2	europa	1
+	350	2	born	1
+	351	2	facebook	1
+	352	2	performed	1
+	353	2	eeuu	1
+	354	2	organization	1
+	355	2	ages	1
+	356	2	date	1
+	357	2	estado	1
+	358	2	presentados	1
+	359	2	icim	1
+	360	2	shows	1
+	361	2	his	1
+	362	2	presented	1
+	363	2	versi	1
+	364	2	from	1
+	365	2	canta	1
+	366	2	partnered	1
+	367	2	group	1
+	368	2	tap	1
+	369	2	repeatedly	1
+	370	2	like	1
+	371	2	bottom	1
+	372	2	published	1
+	373	2	publicada	1
+	374	2	towards	1
+	375	2	produced	1
+	376	2	both	1
+	377	2	core	1
+	378	2	presentando	1
+	379	2	musicians	1
+	380	2	frequent	1
+	381	2	why	1
+	382	2	can	1
+	383	2	september	1
+	384	2	univisi	1
+	385	2	para	1
+	386	2	public	1
+	387	2	station	1
+	388	2	cadas	1
+	389	2	temas	1
+	390	2	mundial	1
+	391	2	sal	1
+	392	2	inc	1
+	393	2	invitada	1
+	394	2	will	1
+	395	2	canto	1
+	396	2	interviewed	1
+	397	2	trabaj	1
+	398	2	funci	1
+	399	2	performance	1
+	400	2	tema	1
+	401	2	bienvenido	1
+	402	2	listed	1
+	403	2	various	1
+	404	2	programas	1
+	405	2	serie	1
+	406	2	talleres	1
+	407	2	categor	1
+	408	2	clinic	1
+	409	2	gala	1
+	410	2	eventos	2
+	411	2	luz	2
+	412	2	ganado	2
+	413	2	tangoearth	2
+	414	2	despu	2
+	415	2	guest	2
+	416	2	much	2
+	417	2	be	2
+	418	2	foot	2
+	419	2	m	2
+	420	2	dc	2
+	421	2	language	2
+	422	2	ense	2
+	423	2	angeles	2
+	424	2	es	2
+	425	2	2011	2
+	426	2	santa	2
+	427	2	clara	2
+	428	2	ndolas	2
+	429	2	2016	2
+	430	2	2014	2
+	431	2	years	2
+	432	2	argentinos	2
+	433	2	culturales	2
+	434	2	have	2
+	435	2	fue	2
+	436	2	usa	2
+	437	2	radio	2
+	438	2	find	2
+	439	2	than	2
+	440	2	seattle	2
+	441	2	international	2
+	442	2	always	2
+	443	2	new	2
+	444	2	kdtv	2
+	445	2	200	2
+	446	2	present	2
+	447	2	university	2
+	448	2	media	2
+	449	2	ball	2
+	450	2	times	2
+	451	2	os	2
+	452	2	about	2
+	453	2	beautiful	2
+	454	2	championship	2
+	455	2	annual	2
+	456	2	14	2
+	457	2	immersion	2
+	458	2	17	2
+	459	2	want	2
+	460	2	received	2
+	461	2	ballet	2
+	462	2	association	2
+	463	2	estrellitas	2
+	464	2	diversity	2
+	465	2	so	2
+	466	2	su	2
+	467	2	folkloric	2
+	468	2	gran	2
+	469	2	estados	2
+	470	2	guatemala	2
+	471	2	sciences	2
+	472	2	un	2
+	473	2	details	2
+	474	2	ve	2
+	475	2	que	2
+	476	2	amateur	2
+	477	2	now	2
+	478	2	what	2
+	479	2	competition	2
+	480	2	multi	2
+	481	2	presentar	2
+	482	2	ethnic	2
+	483	2	dancer	2
+	484	2	care	2
+	485	2	teaching	2
+	486	2	noon	2
+	487	2	semi	2
+	488	2	place	2
+	489	2	academy	2
+	490	2	great	2
+	491	2	artistas	2
+	492	2	january	2
+	493	2	first	2
+	494	2	stuff	2
+	495	2	otros	2
+	496	2	unidos	2
+	497	2	danza	2
+	498	2	25th	2
+	499	2	also	2
+	500	2	stage	3
+	501	2	series	3
+	502	2	area	3
+	503	2	pareja	3
+	504	2	2008	3
+	505	2	company	3
+	506	2	america	3
+	507	2	latin	3
+	508	2	it	3
+	509	2	presenting	3
+	510	2	las	3
+	511	2	all	3
+	512	2	veces	3
+	513	2	awards	3
+	514	2	they	3
+	515	2	events	3
+	516	2	popular	3
+	517	2	prix	3
+	518	2	has	3
+	519	2	this	3
+	520	2	show	3
+	521	2	varias	3
+	522	2	baila	3
+	523	2	help	3
+	524	2	argentino	3
+	525	2	square	3
+	526	2	del	4
+	527	2	music	4
+	528	2	an	4
+	529	2	cultural	4
+	530	2	by	4
+	531	2	learn	4
+	532	2	founded	4
+	533	2	washington	4
+	534	2	spanish	4
+	535	2	grand	4
+	536	2	with	4
+	537	2	is	4
+	538	2	con	4
+	539	2	or	4
+	540	2	restrepo	4
+	541	2	como	4
+	542	2	1998	4
+	543	2	your	5
+	544	2	ha	5
+	545	2	several	5
+	546	2	jensen	5
+	547	2	se	5
+	548	2	por	5
+	549	2	us	5
+	550	2	we	5
+	551	2	her	5
+	552	2	ella	6
+	553	2	gigi	6
+	554	2	baile	6
+	555	2	dances	6
+	556	2	you	7
+	557	2	our	7
+	558	2	festival	8
+	559	2	as	8
+	560	2	n	8
+	561	2	she	8
+	562	2	pampa	8
+	563	2	more	8
+	564	2	cort	8
+	565	2	for	9
+	566	2	of	9
+	567	2	california	9
+	568	2	los	9
+	569	2	on	10
+	570	2	argentina	10
+	571	2	at	11
+	572	2	patricia	11
+	573	2	francisco	12
+	574	2	san	12
+	575	2	el	13
+	576	2	la	15
+	577	2	dance	15
+	578	2	to	16
+	579	2	argentine	16
+	580	2	a	18
+	581	2	s	18
+	582	2	tango	18
+	583	2	y	19
+	584	2	and	23
+	585	2	the	24
+	586	2	in	26
+	587	2	en	29
+	588	2	de	35
+
+
+closing database after writing information for  http://tangoandmore.org...

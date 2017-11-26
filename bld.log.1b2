@@ -1,0 +1,154 @@
+Driver Loaded.
+Got Connection.
+
+
+Page
+18:28:28.523 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+Fetching http://bayareatango.org...
+18:28:29.159 [main] INFO  PageWordCount - count: Fetching http://bayareatango.org...
+18:28:30.480 [main] INFO  PageWordCount - count: === raw counts ===
+18:28:30.480 [main] INFO  PageWordCount - count: [larger=Word{id=null, word='larger', count='1', pageId='null'}, next=Word{id=null, word='next', count='1', pageId='null'}, com=Word{id=null, word='com', count='1', pageId='null'}, copyright=Word{id=null, word='copyright', count='1', pageId='null'}, year=Word{id=null, word='year', count='1', pageId='null'}, classes=Word{id=null, word='classes', count='1', pageId='null'}, local=Word{id=null, word='local', count='1', pageId='null'}, 2006=Word{id=null, word='2006', count='1', pageId='null'}, batango=Word{id=null, word='batango', count='1', pageId='null'}, www=Word{id=null, word='www', count='1', pageId='null'}, contact=Word{id=null, word='contact', count='1', pageId='null'}, tango=Word{id=null, word='tango', count='2', pageId='null'}, bay=Word{id=null, word='bay', count='2', pageId='null'}, join=Word{id=null, word='join', count='2', pageId='null'}, donate=Word{id=null, word='donate', count='1', pageId='null'}, map=Word{id=null, word='map', count='1', pageId='null'}, us=Word{id=null, word='us', count='1', pageId='null'}, events=Word{id=null, word='events', count='2', pageId='null'}, info=Word{id=null, word='info', count='2', pageId='null'}, area=Word{id=null, word='area', count='2', pageId='null'}, a=Word{id=null, word='a', count='1', pageId='null'}, in=Word{id=null, word='in', count='1', pageId='null'}, list=Word{id=null, word='list', count='1', pageId='null'}, mapview=Word{id=null, word='mapview', count='1', pageId='null'}, home=Word{id=null, word='home', count='1', pageId='null'}, places=Word{id=null, word='places', count='2', pageId='null'}, online=Word{id=null, word='online', count='1', pageId='null'}, spotlight=Word{id=null, word='spotlight', count='1', pageId='null'}]
+18:28:30.482 [main] INFO  PageWordCount - count: === frequency ===
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |larger| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |next| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |com| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |copyright| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |year| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |classes| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |local| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |2006| f: 1 
+18:28:30.483 [main] INFO  PageWordCount - count:  w: |batango| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |www| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |contact| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |donate| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |map| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |us| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |a| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |in| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |list| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |mapview| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |home| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |online| f: 1 
+18:28:30.484 [main] INFO  PageWordCount - count:  w: |spotlight| f: 1 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |tango| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |bay| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |join| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |events| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |info| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |area| f: 2 
+18:28:30.485 [main] INFO  PageWordCount - count:  w: |places| f: 2 
+Persisted Page{id=2, url='http://bayareatango.org'}
+
+
+Page
+	ID	URL
+----------------------------------
+	1	http://tangomango.org
+	2	http://bayareatango.org
+
+
+Words
+	ID	PAGE_ID	WORD	WORD_COUNT
+----------------------------------
+	1	1	dancing	1
+	2	1	palm	1
+	3	1	county	1
+	4	1	about	1
+	5	1	above	1
+	6	1	donate	1
+	7	1	events	1
+	8	1	you	1
+	9	1	settings	1
+	10	1	angeles	1
+	11	1	in	1
+	12	1	below	1
+	13	1	centralcalifornia	1
+	14	1	this	1
+	15	1	is	1
+	16	1	click	1
+	17	1	coast	1
+	18	1	ever	1
+	19	1	keep	1
+	20	1	send	1
+	21	1	luis	1
+	22	1	no	1
+	23	1	south	1
+	24	1	city	1
+	25	1	association	1
+	26	1	login	1
+	27	1	santa	1
+	28	1	running	1
+	29	1	los	1
+	30	1	not	1
+	31	1	central	1
+	32	1	load	1
+	33	1	and	1
+	34	1	of	1
+	35	1	diego	1
+	36	1	share	1
+	37	1	barbara	1
+	38	1	so	1
+	39	1	free	1
+	40	1	listing	1
+	41	1	address	1
+	42	1	previous	1
+	43	1	org	1
+	44	1	will	1
+	45	1	jose	1
+	46	1	orange	1
+	47	1	help	1
+	48	1	site	1
+	49	1	berkeley	1
+	50	1	beach	1
+	51	1	obispo	1
+	52	1	spam	1
+	53	1	francisco	2
+	54	1	florida	2
+	55	1	your	2
+	56	1	miami	2
+	57	1	california	2
+	58	1	bay	2
+	59	1	chicago	2
+	60	1	cities	2
+	61	1	southern	2
+	62	1	other	2
+	63	1	email	2
+	64	1	a	2
+	65	1	or	2
+	66	1	to	2
+	67	1	argentine	3
+	68	1	area	3
+	69	1	tangomango	3
+	70	1	tango	3
+	71	1	san	5
+	72	2	larger	1
+	73	2	next	1
+	74	2	com	1
+	75	2	copyright	1
+	76	2	year	1
+	77	2	classes	1
+	78	2	local	1
+	79	2	2006	1
+	80	2	batango	1
+	81	2	www	1
+	82	2	contact	1
+	83	2	donate	1
+	84	2	map	1
+	85	2	us	1
+	86	2	a	1
+	87	2	in	1
+	88	2	list	1
+	89	2	mapview	1
+	90	2	home	1
+	91	2	online	1
+	92	2	spotlight	1
+	93	2	tango	2
+	94	2	bay	2
+	95	2	join	2
+	96	2	events	2
+	97	2	info	2
+	98	2	area	2
+	99	2	places	2
+
+
+closing database after writing information for  http://bayareatango.org...

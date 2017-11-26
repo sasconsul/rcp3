@@ -1,4 +1,4 @@
-// create and persist
+
 
 import org.jsoup.Jsoup;
 import org.jsoup.helper.Validate;
@@ -19,7 +19,11 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-
+/**
+ * Parse a URL into its text and persist the word counts.
+ *
+ *
+ */
 public class Main {
     public static void main(String[] args) throws Exception {
         JPAUtil util = new JPAUtil();
@@ -56,7 +60,7 @@ public class Main {
         print("\n\nclosing database after writing information for  %s...", url);
         em.close();
         emf.close();
-
+        util.shutdown();
     }
 
     private static void print(String msg, Object... args) {

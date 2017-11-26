@@ -1,31 +1,43 @@
 import java.io.Reader;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
-import java.sql.Statement;
+import java.sql.*;
 
 /**
  * Based on http://java2s.com
  *
  */
 public class JPAUtil {
-    Statement st;
+    static Statement st;
 
+    /**
+     * Load and Connect proper JDBC drivers
+     *
+     * @throws Exception
+     */
     public JPAUtil() throws Exception {
         Class.forName("org.hsqldb.jdbcDriver");
         System.out.println("Driver Loaded.");
-        String url = "jdbc:hsqldb:data/wordcount";
+        String url = "jdbc:hsqldb:data/wordcount;shutdown=true;hsqldb.write_delay=false;";
 
         Connection conn = DriverManager.getConnection(url, "sa", "");
         System.out.println("Got Connection.");
         st = conn.createStatement();
     }
 
+    /**
+     * Update via the SQL parameter (this is below the JPA/Hibernate layer.)
+     *
+     * @param sql
+     * @throws Exception
+     */
     public void executeSQLCommand(String sql) throws Exception {
         st.executeUpdate(sql);
     }
 
+    /**
+     * Checks that data in the DB by running the SQL command and displaying the output.
+     * @param sql
+     * @throws Exception
+     */
     public void checkData(String sql) throws Exception {
         ResultSet rs = st.executeQuery(sql);
         ResultSetMetaData metadata = rs.getMetaData();
@@ -46,5 +58,17 @@ public class JPAUtil {
             }
             System.out.println("");
         }
+    }
+
+    /**
+     * Shutdown removes the locks on the db.
+     *
+     * NOTE: it is needed for hsqldb and other file based databases.
+     *
+     * @throws SQLException
+     */
+
+    public void shutdown() throws SQLException {
+        st.executeUpdate("SHUTDOWN");
     }
 }
