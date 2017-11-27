@@ -26,17 +26,19 @@ import javax.persistence.Persistence;
  */
 public class Main {
     public static void main(String[] args) throws Exception {
+        Validate.isTrue(args.length == 1, "usage: supply url to fetch");
+        String url = args[0];
+
+        print("\n\nConnecting to DB.");
+
         JPAUtil util = new JPAUtil();
-        print("\n\nPage");
 
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("WordCountService");
         EntityManager em = emf.createEntityManager();
         WordCountService service = new WordCountService(em);
 
-        Validate.isTrue(args.length == 1, "usage: supply url to fetch");
-        String url = args[0];
-        print("Fetching %s...", url);
 
+        print("Fetching %s...", url);
         Page page;
         em.getTransaction().begin();
 
@@ -52,12 +54,12 @@ public class Main {
         em.getTransaction().commit();
         System.out.println("Persisted " + page);
 
-        print("\n\nPage");
+        print("\n\nPage in DB");
         util.checkData("select * from Page");
-        print("\n\nWords");
+        print("\n\nWords in DB");
         util.checkData("select * from Word");
 
-        print("\n\nclosing database after writing information for  %s...", url);
+        print("\n\nClosing database after writing information for  %s...", url);
         em.close();
         emf.close();
         util.shutdown();
