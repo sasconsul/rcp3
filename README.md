@@ -7,7 +7,7 @@ To build use maven:
     mvn clean build
 ```
 
-#RUN
+# RUN
 
 Run the program via ``` java -jar <target-jar> <URL-to-count>``` for example:
 
@@ -15,7 +15,7 @@ Run the program via ``` java -jar <target-jar> <URL-to-count>``` for example:
 java -jar target/rcp3-0.0.1-SNAPSHOT-jar-with-dependencies.jar  http://bayareatango.org
 ```
 
-#DATABASE
+# DATABASE
 
 The database is HSQL stored in the directory ```data/```.  To interact with the DB after runs use the following:
 ```$shell
@@ -23,7 +23,7 @@ java -cp target/rcp3-0.0.1-SNAPSHOT-jar-with-dependencies.jar  org.hsqldb.util.D
 ```
 Use the URL ```jdbc:hsqldb:data/wordcount``` to access the database.
 
-#TODO
+# TODO
 
 Depending on customer requirements of the code some changes would be needed:
 * duplicate page detection
